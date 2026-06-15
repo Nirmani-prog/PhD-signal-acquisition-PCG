@@ -19,8 +19,7 @@ This repository contains a cleaned public-facing MATLAB version of a phonocardio
 ## Folder structure
 
 - `functions/` — reusable helper functions
-- `data/` — place small example `.mat` or `.csv` files here
-- `results/` — generated figures and summary tables
+
 
 ## Data
 
